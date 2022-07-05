@@ -1,0 +1,168 @@
+body {
+  margin: 0px 40px;
+}
+
+header {
+  color: aqua;
+}
+
+h1 {
+  color: #0670be;
+  font-style: initial;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  line-height: 67px;
+  color: #0670be;
+  font-style: initial;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 {
+  color: #0670be;
+  font-style: initial;
+  font-size: 30px;
+  text-align: center;
+}
+
+h4 {
+  color: #0670be;
+  font-style: initial;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h5 {
+  color: #0670be;
+  font-style: initial;
+  font-size: 20px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  background-color: #e9f2fa;
+  line-height: 43px;
+  margin-top: 18px;
+  border: 1px solid #6097be;
+}
+
+.link p {
+  color: #6097be;
+  margin-left: 20px;
+}
+
+.link a {
+  color: #106db2;
+  text-decoration: none;
+  line-height: 40px;
+  font-size: 20px;
+}
+
+h6 {
+  color: #0670be;
+  font-style: initial;
+  font-size: 30px;
+  text-align: center;
+}
+
+#sum {
+  color: #0670be;
+  font-style: initial;
+  font-size: 20px;
+  text-align: center;
+  line-height: 0px;
+}
+
+.alg {
+  margin-left: 5%;
+  line-height: 26px;
+}
+
+.text {
+  text-align: center;
+}
+
+.kd {
+  background-color: #e6f0f9;
+}
+
+.rd {
+  margin-left: 5%;
+}
+
+table,
+tr,
+th,
+td {
+  border: 1px solid;
+  line-height: 40px;
+  text-align: center;
+}
+
+.ms {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #1365a1;
+  margin: 1em 0;
+}
+
+.sd {
+  line-height: 26px;
+  margin-left: 0px;
+}
+
+.sd p {
+  text-align: center;
+}
+
+.line {
+  line-height: 26px;
+}
+.sa {
+  padding-left: 156px;
+  margin-top: 25px;
+  font-size: 18px;
+  font-style: revert;
+}
+
+.mu {
+  line-height: 26px;
+}
+
+.mm {
+  margin-top: 20px;
+}
+
+.name,
+.emailid,
+.country,
+.message,
+.phonenumber {
+  margin-bottom: 30px;
+}
+.ee {
+  font-size: 15px;
+  margin-top: 40px;
+  background-color: #e6f0f9;
+  border: 1px solid;
+  width: 400px;
+  height: 330px;
+  justify-content: center;
+  text-align: center;
+  line-height: 25px;
+  border-radius: 15px;
+  margin-left: 150px;
+}
+.personal {
+  padding-left: 156px;
+  padding-top: 35px;
+  line-height: 50px;
+  font-size: 18px;
+  font-style: revert;
+}
